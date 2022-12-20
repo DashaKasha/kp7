@@ -1,0 +1,3 @@
+﻿  kp7.cpp
+D:\учеба\C++\kp7\kp7\kp7.cpp(60,13): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  kp7.vcxproj -> D:\учеба\C++\kp7\x64\Debug\kp7.exe
